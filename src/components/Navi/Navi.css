@@ -1,0 +1,14 @@
+.Navi {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;   
+    
+    padding: 30px; 
+}
+button {    
+    padding:10px 0px 10px 0px;
+    border-radius:10px;
+    font-size: 16px;
+    background-color: rgb(167, 90, 90);
+}
